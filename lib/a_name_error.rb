@@ -1,2 +1,2 @@
-def hello_world
-puts    "hello world"
+greeting = "hello there"
+greeting
